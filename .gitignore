@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# Temporary files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+Group_Type,Group,Test_Rows,Actual_Attrition,True_Positives,Recall
+Gender,Female,116,16,5,0.3125
+Gender,Male,178,31,5,0.16129032258064516
+MaritalStatus,Divorced,64,4,0,0.0
+MaritalStatus,Married,133,18,3,0.16666666666666666
+MaritalStatus,Single,97,25,7,0.28
+AgeBand,18-25,27,7,4,0.5714285714285714
+AgeBand,26-35,121,20,3,0.15
+AgeBand,36-45,98,11,2,0.18181818181818182
+AgeBand,46-55,37,6,1,0.16666666666666666
+AgeBand,56+,11,3,0,0.0
